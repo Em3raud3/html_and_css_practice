@@ -1,0 +1,21 @@
+button.next {
+  width: 45.641px;
+  }
+
+.page-number {
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+button.stretch {
+  background-color: green;
+  color: white;
+  transition: padding 0.3s;
+}
+
+button.stretch:hover {
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 20px;
+padding-right: 20px;
+}
